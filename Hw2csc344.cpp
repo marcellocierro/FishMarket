@@ -38,8 +38,6 @@
    
   */
 
-
-//was going to use malloc but osX doesnt support? Not too sure, used stdlib isntead
 #include <iostream>
 #include <stdlib.h>
 #include <string.h>
